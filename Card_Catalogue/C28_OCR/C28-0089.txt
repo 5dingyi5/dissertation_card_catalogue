@@ -1,0 +1,4 @@
+tbl 1 r:g
+
+c: ink 1 n ng
+
