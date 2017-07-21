@@ -1,0 +1,3 @@
+adapted from: https://ryanfb.github.io/etc/2014/11/13/command_line_ocr_on_mac_os_x.html
+
+for i in *.tif; do echo $i; tesseract $i $(basename $i .tif) txt; done
